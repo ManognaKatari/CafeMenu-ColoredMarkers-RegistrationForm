@@ -1,2 +1,6 @@
-# CafeMenu-ColoredMarkers-RegistrationForm
-A set of very simple HTML &amp; CSS nano-projects: a Café Menu for practicing text layout, Colored Markers for working with colors and the box model, and a Registration Form for basic form structure and styling. Together they build core beginner web-development skills.
+# CafeMenu, ColoredMarkers, RegistrationForm
+🌐 Simple HTML & CSS Mini Projects
+This repository contains three beginner-friendly projects:
+🍽️ Café Menu – practice basic text layout and styling
+🖍️ Colored Markers – experiment with colors, boxes, and simple design
+📝 Registration Form – learn basic form structure and input styling
